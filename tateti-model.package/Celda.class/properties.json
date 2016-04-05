@@ -1,0 +1,15 @@
+{
+	"category" : "tateti-model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elemento",
+		"cantidadDeElementos" ],
+	"name" : "Celda",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

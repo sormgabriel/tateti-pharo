@@ -1,0 +1,14 @@
+{
+	"category" : "tateti-tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cantidadDeElementos" ],
+	"name" : "CeldaTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
