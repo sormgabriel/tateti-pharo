@@ -4,8 +4,8 @@ testDadoUnJuegoConElementoXEnLasPosicion1Posicion4yPosicion7ValidoQueElJuegoEste
 	|game tablero equis o|
 	tablero := (Tablero iniciar).
 	game := TatetiGame sobre:tablero.
-	equis := Elemento nombre:'X'.
-	o := Elemento nombre:'O'.
+	equis := Equis new.
+	o := Circulo new.
 	game enPosicion1Colocar: equis.
 	game enPosicion4Colocar: equis.
 	game enPosicion7Colocar: equis.

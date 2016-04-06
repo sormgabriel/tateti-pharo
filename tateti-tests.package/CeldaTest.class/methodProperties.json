@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAlAgregarUnaEquisAUnaCeldaConUnaEquisDebeLanzarUnError" : "gms 4/5/2016 20:33",
-		"testAlAgregarUnaEquisAUnaCeldaVaciaPasaATenerUnElemento" : "gms 4/5/2016 20:09",
+		"testAlAgregarUnaEquisAUnaCeldaConUnaEquisDebeLanzarUnError" : "gms 4/6/2016 14:00",
+		"testAlAgregarUnaEquisAUnaCeldaVaciaPasaATenerUnElemento" : "gms 4/6/2016 14:00",
 		"testAlInstanciarUnaCeldaNoTieneElementos" : "gms 4/5/2016 18:13",
-		"testDadasDosCeldasConUnaEquisCadaUnaTienenLosMismosElementos" : "gms 4/5/2016 21:05" } }
+		"testDadasDosCeldasConUnaEquisCadaUnaTienenLosMismosElementos" : "gms 4/6/2016 14:01" } }

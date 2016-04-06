@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testDadoUnJuegoConElementoXEnLasPosicion1Posicion4yPosicion7ValidoQueElJuegoEsteTerminado" : "fb 4/6/2016 01:54",
+		"testDadoUnJuegoConElementoXEnLasPosicion1Posicion4yPosicion7ValidoQueElJuegoEsteTerminado" : "gms 4/6/2016 14:02",
 		"testElJuegoRealizaTresMovimientoPoniendoUnaEquisEnLaPosicion1UnaOenPosicion4YUnaXenPosicion5" : "fb 4/6/2016 01:49",
 		"testElJuegoRealizaUnMovimientoDePonerUnaEquisEnLaPosicion1" : "fb 4/6/2016 01:30",
 		"testInitialezGame" : "fb 4/6/2016 01:23" } }

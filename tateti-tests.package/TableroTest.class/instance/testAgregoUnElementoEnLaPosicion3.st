@@ -3,7 +3,7 @@ testAgregoUnElementoEnLaPosicion3
 
 	|tablero equis posicion |
 	tablero := Tablero iniciar.
-	equis := Elemento nombre:'equis'.
+	equis := Equis new .
 	posicion := Posicion x:3y:1.
 	tablero agregar: equis enPosicion: posicion.
 	self 

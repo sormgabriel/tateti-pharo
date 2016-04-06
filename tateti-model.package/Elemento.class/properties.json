@@ -1,0 +1,14 @@
+{
+	"category" : "tateti-model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Elemento",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

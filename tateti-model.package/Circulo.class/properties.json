@@ -1,0 +1,14 @@
+{
+	"category" : "tateti-model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Circulo",
+	"pools" : [
+		 ],
+	"super" : "Elemento",
+	"type" : "normal" }

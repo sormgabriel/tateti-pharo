@@ -4,7 +4,7 @@ testDadasDosCeldasConUnaEquisCadaUnaTienenLosMismosElementos
 
   celda1 := Celda new.
   celda2 := Celda new.
-  equis1 :=  Elemento nombre:'equis'.
-  equis2 :=  Elemento nombre:'equis'.
+  equis1 :=  Equis new.
+  equis2 :=  Equis new.
   self assert: (celda1 tieneElMismoElemento: celda2)
   

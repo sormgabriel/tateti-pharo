@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"sobre:" : "fb 4/6/2016 01:24" },
+	"instance" : {
+		"con:" : "fb 4/6/2016 01:24",
+		"elementoEnPosicion1" : "fb 4/6/2016 02:30",
+		"elementoEnPosicion2" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion3" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion4" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion5" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion6" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion7" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion8" : "fb 4/6/2016 02:32",
+		"elementoEnPosicion9" : "fb 4/6/2016 02:31",
+		"enPosicion1Colocar:" : "fb 4/6/2016 02:30",
+		"enPosicion2Colocar:" : "fb 4/6/2016 02:30",
+		"enPosicion3Colocar:" : "fb 4/6/2016 02:30",
+		"enPosicion4Colocar:" : "fb 4/6/2016 02:31",
+		"enPosicion5Colocar:" : "fb 4/6/2016 02:31",
+		"enPosicion6Colocar:" : "fb 4/6/2016 02:31",
+		"enPosicion7Colocar:" : "fb 4/6/2016 02:31",
+		"enPosicion8Colocar:" : "fb 4/6/2016 02:31",
+		"enPosicion9Colocar:" : "fb 4/6/2016 02:31",
+		"filaCompleta" : "fb 4/6/2016 02:10",
+		"juegoTerminado" : "fb 4/6/2016 01:58",
+		"tablero" : "fb 4/6/2016 01:24" } }

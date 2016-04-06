@@ -1,0 +1,15 @@
+{
+	"category" : "tateti-model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"coordenadaY",
+		"coordenadaX" ],
+	"name" : "Posicion",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
