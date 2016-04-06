@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testAlAgregarUnaEquisAUnaCeldaConUnaEquisDebeLanzarUnError
 |celda  equis1 equis2|
   equis1 := Elemento nombre:'equis'.

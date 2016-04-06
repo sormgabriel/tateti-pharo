@@ -1,0 +1,14 @@
+{
+	"category" : "tateti-model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ubicaciones" ],
+	"name" : "Tablero",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

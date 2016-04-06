@@ -1,14 +1,14 @@
 {
-	"category" : "tateti-model",
+	"category" : "tateti-tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"nombre" ],
-	"name" : "Elemento",
+		 ],
+	"name" : "TableroTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"iniciar" : "fb 4/5/2016 23:52" },
+	"instance" : {
+		"agregar:enPosicion:" : "fb 4/6/2016 02:26",
+		"celda" : "fb 4/6/2016 00:42",
+		"celdaAtPosicion:" : "fb 4/6/2016 02:17",
+		"elementoAtPosicion:" : "fb 4/6/2016 02:15",
+		"inicarCeldas" : "fb 4/6/2016 02:22",
+		"iniciar" : "fb 4/6/2016 00:41",
+		"isEmpty" : "fb 4/6/2016 00:50",
+		"isFull" : "fb 4/6/2016 01:18" } }

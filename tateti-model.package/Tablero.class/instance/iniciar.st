@@ -1,0 +1,4 @@
+initalize
+iniciar
+	
+	self inicarCeldas.
